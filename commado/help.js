@@ -108,6 +108,7 @@ ${x} #sange
 ${x} #nolep
 ${x} #jahat
 ${x} #baik
+${x} #pemenang
 
 𝙎𝙏𝙊𝙍𝘼𝙂𝙀
 ${x} #addimg
